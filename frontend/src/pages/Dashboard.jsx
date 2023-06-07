@@ -16,14 +16,12 @@ const Dashboard = () => {
                 <Card.Title> Michael Jordan F. Adriano</Card.Title>
                 <hr></hr>
                 <Card.Text>
-                  A simple program that will generate a thesis title based on the topic you entered.
+                  A career shifter from being an Electronics Engineer to become a Web developer or Full Stack developer.
                 </Card.Text>
                 
               </Card.Body>
             </Card>
           </Col>
-
-          
         </Row>
       </Container>
     </>
